@@ -4,3 +4,4 @@ Flask==3.1.0
 Flask_Cors==5.0.0
 Flask_SocketIO==5.5.1
 opencv_python==4.11.0.86
+opencv-python-headless
